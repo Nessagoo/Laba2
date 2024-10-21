@@ -4,10 +4,10 @@
 
 ## Что делает приложение?
 Приложение состоит из 4 экранов:
-1. [Меню](#activity1).
-2. [Экран 2](#activity2),
-3. [Экран 3](#activity3),
-4. [Экран 4](#activity4).
+1. Меню,
+2. Экран 2,
+3. Экран 3,
+4. Экран 4.
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/7f5ed5c2-0e3d-47b3-810f-da584de1e1fa" width="200"> 
